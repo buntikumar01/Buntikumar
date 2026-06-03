@@ -24,4 +24,4 @@ To build real-world data analytics projects and start a career in Data Analytics
 Building Python projects and sharing my learning journey on GitHub.
 
 ## Connect With Me
-LinkedIn: Your LinkedIn Profile Link
+LinkedIn: https://www.linkedin.com/in/bunti-kumar-13b153233?utm_source=share_via&utm_content=profile&utm_medium=member_ios
